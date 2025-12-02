@@ -1,0 +1,11 @@
+title: Manual of Me
+description: A personal guide on how I work, communicate, and collaborate.
+
+# GitHub Pages supported theme
+theme: jekyll-theme-cayman
+
+# Navigation / SEO
+search_enabled: true
+
+# Optional GitHub link
+url: "https://jrabbott.github.io/manual-of-me"
