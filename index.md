@@ -5,19 +5,19 @@ nav_order: 1
 
 # Manual of Me
 
-Welcome to my Manual of Me — a guide to how I think, work, communicate, and collaborate.  
+Welcome to my Manual of Me. This site is a guide to how I think, work, and collaborate.
 
-This site helps others understand how to work effectively with me and how I do my best work.
+It is built around a simple mantra: **"This is me. I'm trying to change. I need your help."**
 
 ## Hi, I'm Jon
 
-I am a determined and goal-oriented individual with a strong sense of purpose. In Facet5 terminology, my working style is that of a **Producer**.
+I am a determined, goal-oriented individual with a strong sense of purpose. In Facet5 terminology, my working style is that of a **Producer**.
 
-I am driven by results, efficiency, and the successful completion of tasks. I approach my work with high energy for the task at hand, but I am pragmatic and business-focused in my relationships.
+I have a **"Spiky Profile."** My brain is wired to process information globally rather than sequentially. This means I perform at a high level in strategic, visual, and "big picture" reasoning, but I encounter specific friction with linear administrative tasks and converting my ideas into written text.
 
-* **My Core Style:** Independent, determined, and structured.
-* **My Drive:** I am ambitious and motivated by achieving measurable targets.
-* **My Approach:** I value logic, data, and clear planning over abstract ideas or emotional appeals.
+* **This is me:** I am a strategic, "Big Picture" thinker who spots patterns instantly.
+* **I'm trying to change:** I am working on bridging the gap between my high verbal fluency and my written output.
+* **I need your help:** I need opportunities to verbalize complex ideas and patience with the mechanics of my writing.
 
 ## Table of Contents
 

@@ -6,11 +6,19 @@ parent: Manual of Me
 
 # Communication
 
-My communication style is direct, formal, and concise.
+## "This is me"
 
-* **Be brief and direct:** I appreciate concise expression. Please get to the point—I prefer you to know what you want to say before approaching me.
-* **Use logic and facts:** I am pragmatic and data-driven. I respect arguments based on business logic and "expert" opinion rather than emotional appeals.
-* **Expect robust debate:** I express my views forcefully and enjoy open discussion and argument. If I challenge you, it is because I am engaged, not because I am being difficult.
-* **Formal is fine:** I often use a formal communication style and prefer relationships to be kept business-like.
+There is a significant difference between my verbal and written skills.
+
+### What you can expect
+* **Verbal Fluency:** I articulate complex ideas well in conversation. I am good at forceful discussion and open debate.
+* **Directness:** I appreciate concise expression and get straight to the point.
+* **Logic over Emotion:** I am pragmatic and rely on facts, data, and logic rather than emotional appeals.
+
+### What you might not know
+* **The "Written Gap":** I often have more ideas than I can write down. My ideas may be fully formed verbally, but I can struggle to capture that same clarity on paper.
+* **Losing the Thread:** When writing long pieces of work, I can lose the "thread" of the narrative. I prefer bullet points and conversation over long-form prose.
+* **Processing Delay:** I need time to digest dense written information. I process best when I can visualize the concept or discuss it.
+* **High Empathy:** Because I sometimes struggle to process verbal instructions quickly, I have developed a heightened ability to "read the room" and understand non-verbal cues.
 
 [⬅ Back to Home](../index.md)

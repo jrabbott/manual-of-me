@@ -6,11 +6,13 @@ parent: Manual of Me
 
 # Growth Areas
 
-I am aware of my potential blind spots and actively work on them.
+## "I'm trying to change"
 
-* **Inflexibility:** Once I am set on a course, I can be stubborn and rigid. I may find it hard to adapt quickly if a plan changes suddenly.
-* **Impatience:** Because I am driven and result-oriented, I can be demanding and unyielding. I may tread on others' toes in my pursuit of goals.
-* **Being "too" direct:** I am blunt and tough-minded. I realize this can sometimes be perceived by others as unsympathetic or overly critical.
-* **Worrying:** My profile suggests high emotionality, which means I can be prone to worrying and double-checking to avoid errors. I may sometimes appear pessimistic or overly cautious.
+I am managing my **"Spiky Profile"**—balancing my high-level strategic skills with the friction of daily tasks.
+
+* **The "Idea Flood":** I often have more ideas than I can capture. I am working on better systems to record these without getting overwhelmed or losing the thread.
+* **Inflexibility:** Once I am set on a course, I can be stubborn and rigid. I am trying to be more open to adapting when plans change.
+* **Impatience:** Because I see the "whole" immediately, I can get impatient with the step-by-step explanation. I am trying to slow down for others.
+* **Delivery:** I am naturally blunt and tough-minded. I realize this can be perceived as unsympathetic, and I am working on my delivery.
 
 [⬅ Back to Home](../index.md)

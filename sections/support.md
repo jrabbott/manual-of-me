@@ -6,12 +6,14 @@ parent: Manual of Me
 
 # How to support me
 
-To get the best out of me, the following approaches work well:
+## "I need your help"
 
-* **Grant me autonomy:** I resist close management. Provide me with specific goals, but allow me the freedom to decide *how* to achieve them].
-* **Give direct feedback:** I prefer honesty, but ensure you have your facts straight. Be prepared for me to defend my position if criticized.
-* **Allow me to save face:** If I have made a mistake, tell me directly but privately. Allow me the dignity to correct it myself without public embarrassment.
-* **Offer reassurance:** despite my confident exterior, my high emotionality means I can lack confidence and may need support and encouragement.
-* **Don't force socialization:** I find "very social" team environments draining. Respect my need for privacy.
+To help me do my best work, I need the following from you:
+
+* **Let me talk it out:** If I am struggling to write something down, let me explain it verbally. I can often "speak" the solution faster than I can type it.
+* **Focus on the idea, not the spelling:** Please look past typos or grammar structure to the core strategic idea I am presenting.
+* **Grant me autonomy:** I resist close management. Give me the goal and let me find my own efficient path to it.
+* **Use visuals:** Where possible, explain things using diagrams, videos, or bullet points rather than walls of text.
+* **Direct Feedback:** I prefer honesty. If I have missed a detail because I was looking at the big picture, tell me directly.
 
 [⬅ Back to Home](../index.md)
