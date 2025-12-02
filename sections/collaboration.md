@@ -12,3 +12,4 @@ parent: Manual of Me
 - I aim to be supportive and solution-focused.
 - I appreciate roles and responsibilities being clear.
 
+[⬅ Back to Home](../index.md)

@@ -11,3 +11,5 @@ parent: Manual of Me
 - Written communication is best for details.
 - I prefer messages that include context and outcomes.
 - Organized information helps me respond quickly.
+
+[⬅ Back to Home](../index.md)

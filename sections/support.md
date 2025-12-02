@@ -11,3 +11,5 @@ parent: Manual of Me
 - Provide context with instructions.
 - Offer support without taking ownership unless I ask.
 - Encourage progress, not perfection.
+
+[⬅ Back to Home](../index.md)

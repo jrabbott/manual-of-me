@@ -12,3 +12,5 @@ parent: Manual of Me
 - Staying calm during challenges
 - Breaking down complexity into steps
 - Empathy and active listening  
+
+[⬅ Back to Home](../index.md)

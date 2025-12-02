@@ -10,3 +10,5 @@ parent: Manual of Me
 - Asking for help sooner
 - Reducing perfectionism when “good enough” is fine
 - Making faster decisions when options are equal
+
+[⬅ Back to Home](../index.md)

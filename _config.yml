@@ -9,3 +9,22 @@ search_enabled: true
 
 # Optional GitHub link
 url: "https://jrabbott.github.io/manual-of-me"
+
+# Top menu links
+header_links:
+  - title: Home
+    url: /index.html
+  - title: Working Style
+    url: /sections/working-style.html
+  - title: Communication
+    url: /sections/communication.html
+  - title: Collaboration
+    url: /sections/collaboration.html
+  - title: Strengths
+    url: /sections/strengths.html
+  - title: Growth Areas
+    url: /sections/growth-areas.html
+  - title: Support
+    url: /sections/support.html
+  - title: Values
+    url: /sections/values.html

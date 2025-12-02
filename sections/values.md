@@ -12,3 +12,5 @@ parent: Manual of Me
 - Learning and growth
 - Thoughtfulness
 - Clear expectations and shared purpose  
+
+[⬅ Back to Home](../index.md)

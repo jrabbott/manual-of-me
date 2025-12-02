@@ -11,3 +11,5 @@ parent: Manual of Me
 - I enjoy structure but stay flexible when things change.
 - I like breaking complex problems into manageable steps.
 - I prefer clarity over speed — getting it right matters.
+
+[⬅ Back to Home](../index.md)
