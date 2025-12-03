@@ -8,17 +8,17 @@ parent: Manual of Me
 
 ## "This is me"
 
-There is a significant difference between my verbal and written skills.
+There is a big difference between how I talk and how I write.
 
 ### What you can expect
-* **Verbal Fluency:** I articulate complex ideas well in conversation. I am good at forceful discussion and open debate.
-* **Directness:** I appreciate concise expression and get straight to the point.
-* **Logic over Emotion:** I am pragmatic and rely on facts, data, and logic rather than emotional appeals.
+* **I talk well:** I am good at explaining big ideas out loud. I enjoy a good discussion or debate.
+* **I am direct:** I like to keep things short and clear. I get straight to the point.
+* **I use facts:** I like logic and proof. I listen to facts more than feelings.
 
 ### What you might not know
-* **The "Written Gap":** I often have more ideas than I can write down. My ideas may be fully formed verbally, but I can struggle to capture that same clarity on paper.
-* **Losing the Thread:** When writing long pieces of work, I can lose the "thread" of the narrative. I prefer bullet points and conversation over long-form prose.
-* **Processing Delay:** I need time to digest dense written information. I process best when I can visualize the concept or discuss it.
-* **High Empathy:** Because I sometimes struggle to process verbal instructions quickly, I have developed a heightened ability to "read the room" and understand non-verbal cues.
+* **Writing is hard:** I often have more ideas in my head than I can write down. I can explain it perfectly when I speak, but it is harder to get it on paper.
+* **I can get lost:** If I have to write a long story or report, I might lose track of what I am saying. I prefer bullet points and chatting instead of writing long emails.
+* **I need time:** It takes me longer to read and understand complex writing. I work best when I can see a picture of the idea or talk about it.
+* **I read the room:** Because I sometimes miss words, I have learned to be very good at reading body language and feelings.
 
 [⬅ Back to Home](../index.md)

@@ -6,12 +6,12 @@ parent: Manual of Me
 
 # Strengths
 
-My strengths lie in **Lateral Thinking** and **Strategic Execution**.
+My strengths are **thinking differently** and **getting things done**.
 
-* **Pattern Recognition:** I excel at spotting anomalies or patterns in data and behavior that others might miss.
-* **Simplification:** Because reading and writing require high cognitive energy for me, I am a master of efficiency. I constantly look for the simplest, fastest way to explain a concept or complete a task.
-* **Determination:** I am single-minded and goal-directed. I drive projects through with determination.
-* **3D/Visual Reasoning:** I don't always think in words; I often think in pictures or simulations. This allows me to solve problems through indirect and creative approaches.
-* **Resilience:** Navigating linear systems with a non-linear brain has built my resilience. I am willing to take risks and am less afraid of failure.
+* **Spotting Patterns:** I can see patterns in information or behavior that other people might miss.
+* **Making it simple:** Because reading and writing takes a lot of energy for me, I am great at making things simple. I always look for the fastest, easiest way to explain something.
+* **Determination:** When I set a goal, I stick to it. I work hard to finish projects.
+* **Thinking in pictures:** I don't always think in words. I think in pictures or movies in my head. This helps me solve problems in creative ways.
+* **Bouncing back:** I have had to work hard to learn things that are easy for others. This has made me strong and willing to take risks. I am not afraid of failing.
 
 [⬅ Back to Home](../index.md)

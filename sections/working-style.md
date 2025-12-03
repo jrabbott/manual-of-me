@@ -8,21 +8,21 @@ parent: Manual of Me
 
 ## "This is me"
 
-I operate with a **"Big Picture"** mindset. While many process information step-by-step (A → B → C), I tend to see the whole system immediately.
+I like to see the **"Big Picture."** While many people look at things one step at a time (A, then B, then C), I usually see the whole thing at once.
 
 ### The "Spiky Profile"
-I have Dyslexia, which is a distinct cognitive processing style. A useful way to visualize this is that while a neurotypical brain has a flat profile of average skills, my profile is "Spiky":
-* **The Spikes (My Superpowers):** Strategic vision, complex problem solving, lateral thinking, and high empathy.
-* **The Dips (My Friction Points):** Rote memorization, processing speed, linear administrative tasks, and writing mechanics.
+I have Dyslexia. This affects how I think. Imagine a chart of my skills. Instead of a flat line, mine looks like huge spikes:
+* **The High Spikes (My Superpowers):** Making big plans, solving hard problems, thinking differently, and understanding people.
+* **The Low Dips (Things I find hard):** Memorizing facts, reading quickly, following step-by-step lists, and spelling.
 
 ### What you can expect
-* **Strategic Vision:** I can visualize the end goal and the path to get there, often spotting gaps or flaws in complex systems instantly.
-* **Driven by Results:** I am ambitious and goal-oriented. I focus on the outcome rather than the minute administrative steps required to get there.
-* **Structure & Autonomy:** I am personally organized and planned, but I need the freedom to define my own methods.
+* **I see the goal:** I can see the end result clearly and the best path to get there. I am good at spotting mistakes in big plans instantly.
+* **I focus on results:** I want to finish the job. I care more about the result than the small steps needed to get there.
+* **I like freedom:** I am organized, but I need to choose my own way of working.
 
 ### What you might not know
-* **Interconnected Reasoning:** I make intuitive leaps between seemingly unrelated topics. I often "simulate" scenarios in my mind to see where they break before I ever put pen to paper.
-* **Dynamic Problem Solving:** Because standard linear methods can be obstacles for me, I have developed unique workarounds and am a master of simplification and efficiency.
-* **Internal Worry:** Despite my confident exterior, my high emotionality means I worry about outcomes and double-check risks constantly.
+* **I connect dots:** I can link ideas that seem totally different. I often play out a situation in my head to see if it works before I write anything down.
+* **I have my own methods:** Because reading strict instructions is hard for me, I find faster, simpler ways to do things.
+* **I worry inside:** I might look confident, but I worry about making mistakes. I check things many times because I care about getting it right.
 
 [⬅ Back to Home](../index.md)

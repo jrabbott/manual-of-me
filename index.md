@@ -5,19 +5,19 @@ nav_order: 1
 
 # Manual of Me
 
-Welcome to my Manual of Me. This site is a guide to how I think, work, and collaborate.
+Welcome to my Manual of Me. This guide helps you understand how I think and work.
 
-It is built around a simple mantra: **"This is me. I'm trying to change. I need your help."**
+It is built around three simple sentences: **"This is me. I'm trying to change. I need your help."**
 
 ## Hi, I'm Jon
 
-I am a determined, goal-oriented individual with a strong sense of purpose. In Facet5 terminology, my working style is that of a **Producer**.
+I am a determined person who likes to set clear goals. I like to get things done efficiently.
 
-I have a **"Spiky Profile."** My brain is wired to process information globally rather than sequentially. This means I perform at a high level in strategic, visual, and "big picture" reasoning, but I encounter specific friction with linear administrative tasks and converting my ideas into written text.
+My brain works a little differently. I have a **"Spiky Profile."** This means I am very good at some things (like seeing the big picture), but I find other things hard (like writing and checking small details).
 
-* **This is me:** I am a strategic, "Big Picture" thinker who spots patterns instantly.
-* **I'm trying to change:** I am working on bridging the gap between my high verbal fluency and my written output.
-* **I need your help:** I need opportunities to verbalize complex ideas and patience with the mechanics of my writing.
+* **This is me:** I am an independent thinker who spots patterns quickly.
+* **I'm trying to change:** I am learning to be patient when I have to explain my ideas in writing.
+* **I need your help:** I need chances to talk about my ideas instead of just writing them down.
 
 ## Table of Contents
 

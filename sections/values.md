@@ -6,11 +6,11 @@ parent: Manual of Me
 
 # Values
 
-My work preferences are driven by **Power** and **Process**.
+I am driven by wanting to **lead** and **do things well**.
 
-* **Influence:** I am motivated by the ability to influence events and people. I want to feel I am in charge and being challenged.
-* **Efficiency:** I place great emphasis on doing things properly. I prefer efficient systems that allow me to simplify complex problems.
-* **Meritocracy:** I value being materially rewarded for my achievements.
-* **Results:** I am motivated by producing measurable results rather than abstract concepts.
+* **Influence:** I like to be in charge and have difficult challenges. I want to make a difference.
+* **Efficiency:** I like doing things the right way without wasting time. I like systems that make hard problems simple.
+* **Rewards:** I like to be rewarded when I do a good job.
+* **Results:** I care about real results, not just ideas. I want to see that my work actually worked.
 
 [⬅ Back to Home](../index.md)

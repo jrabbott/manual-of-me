@@ -8,11 +8,11 @@ parent: Manual of Me
 
 ## "I'm trying to change"
 
-I am managing my **"Spiky Profile"**—balancing my high-level strategic skills with the friction of daily tasks.
+I am learning to handle my **"Spiky Profile"**—balancing my big ideas with the everyday tasks I find tricky.
 
-* **The "Idea Flood":** I often have more ideas than I can capture. I am working on better systems to record these without getting overwhelmed or losing the thread.
-* **Inflexibility:** Once I am set on a course, I can be stubborn and rigid. I am trying to be more open to adapting when plans change.
-* **Impatience:** Because I see the "whole" immediately, I can get impatient with the step-by-step explanation. I am trying to slow down for others.
-* **Delivery:** I am naturally blunt and tough-minded. I realize this can be perceived as unsympathetic, and I am working on my delivery.
+* **Too many ideas:** Sometimes I have so many ideas I can't catch them all. I am learning better ways to record them so I don't get overwhelmed.
+* **Being stubborn:** Once I decide on a plan, I can be stuck in my ways. I am trying to be more open to changing my mind.
+* **Being impatient:** Because I see the answer immediately, I can get impatient when others need it explained step-by-step. I am trying to slow down.
+* **How I speak:** I am naturally direct and tough. I know this can sometimes sound unkind. I am trying to say things more gently.
 
 [⬅ Back to Home](../index.md)

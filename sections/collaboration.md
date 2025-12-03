@@ -6,9 +6,9 @@ parent: Manual of Me
 
 # Collaboration
 
-* **Delegation:** I am acutely aware of my weaknesses. I excel at delegating administrative or linear tasks so I can focus on my "zone of genius"—strategy and problem-solving.
-* **Independence:** I am comfortable working alone. I often prefer to work independently rather than in a dependent team role.
-* **Leadership:** I provide a strong leadership position and focus people on an agreed way forward.
-* **Socializing:** I find "very social" team environments draining. I prefer professional relationships over "forced fun".
+* **Asking for help:** I know what I am bad at. I am good at asking others to handle the reading or writing tasks so I can focus on strategy and problem-solving.
+* **Working alone:** I am happy working by myself. I prefer to be independent rather than relying on a big team for everything.
+* **Leading:** I am good at taking charge and helping a group agree on a plan.
+* **Socializing:** Too much socializing makes me tired. I prefer work to be about work, rather than "forced fun."
 
 [⬅ Back to Home](../index.md)
