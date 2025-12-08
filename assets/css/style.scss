@@ -10,7 +10,7 @@ $brand-grey: #f4f4f4;    /* Light background for block sections */
 /* Override Cayman Theme Variables */
 $header-bg-color-0: $brand-black;
 $header-bg-color-1: $brand-black;
-$header-heading-color: $brand-white; /* This sets the default, but we will force it below */
+$header-heading-color: $brand-white;
 $section-headings-color: $brand-black;
 $body-text-color: #333333;
 $body-link-color: $brand-accent;
@@ -28,7 +28,6 @@ $blockquote-text-color: #666666;
   padding: 2rem 2rem;
 }
 
-/* FIX: Force header text to be white */
 .project-name {
   color: $brand-white !important;
   font-weight: 700;
@@ -47,14 +46,12 @@ body {
   line-height: 1.6;
 }
 
-/* Global headings are black... */
 h1, h2, h3 {
   font-weight: 700;
   color: $brand-black;
   margin-top: 1.5em;
 }
 
-/* ...BUT the Site Title in the body should match the header if used there */
 .main-content h1:first-child {
   margin-top: 0;
 }
@@ -70,26 +67,30 @@ a:hover {
   color: darken($brand-accent, 10%);
 }
 
-/* 4. Layout */
+/* 4. Main Content Area */
 .main-content {
   max-width: 50rem;
   padding: 2rem;
-}
 
-/* 5. Blockquotes */
-blockquote {
-  border-left: 5px solid $brand-accent;
-  background: $brand-grey;
-  padding: 1rem;
-  font-style: normal;
-  color: $brand-black;
-}
+  /* Blockquotes (Mantras) - Nested here */
+  blockquote {
+    border-left: 5px solid $brand-accent;
+    background: $brand-grey;
 
-/* 6. Lists */
-ul {
-  margin-left: 1.5rem;
-}
+    /* Spacing */
+    padding: 1.5rem;
+    margin: 2rem 0;
 
-li {
-  margin-bottom: 0.5rem;
+    font-style: normal;
+    color: $brand-black;
+  }
+
+  /* Lists */
+  ul {
+    margin-left: 1.5rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
 }
