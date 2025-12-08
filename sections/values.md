@@ -6,11 +6,12 @@ parent: Manual of Me
 
 # Values
 
-I am driven by wanting to **lead** and **do things well**.
+I am driven by **impact** and **doing things properly**.
 
-* **Influence:** I like to be in charge and have difficult challenges. I want to make a difference.
-* **Efficiency:** I like doing things the right way without wasting time. I like systems that make hard problems simple.
-* **Rewards:** I like to be rewarded when I do a good job.
-* **Results:** I care about real results, not just ideas. I want to see that my work actually worked.
+* **Influence:** I want to make a real difference to the service and the team.
+* **Efficiency:** I value doing things the right way. I like systems that make hard problems simple.
+* **Recognition:** I value being recognised for delivering a good job.
+* **Outcomes:** I care about real-world results, not just theory. I want to see that our work has worked.
+* **Professionalism:** I respect expertise and ethical behaviour.
 
 [⬅ Back to Home](../index.md)

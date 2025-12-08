@@ -6,9 +6,9 @@ parent: Manual of Me
 
 # Collaboration
 
-* **Asking for help:** I know what I am bad at. I am good at asking others to handle the reading or writing tasks so I can focus on strategy and problem-solving.
-* **Working alone:** I am happy working by myself. I prefer to be independent rather than relying on a big team for everything.
-* **Leading:** I am good at taking charge and helping a group agree on a plan.
-* **Socializing:** Too much socializing makes me tired. I prefer work to be about work, rather than "forced fun."
+* **Asking for support:** I know my blind spots. I am good at asking others to help with detailed writing tasks so I can focus on strategy and problem-solving.
+* **Working autonomously:** I am comfortable picking up a task and running with it. I prefer independence over being managed closely.
+* **Leading the way:** I am happy to take responsibility and help the team agree on a way forward.
+* **Socialising:** I enjoy professional relationships, but I find "forced fun" draining. I prefer to bond over doing good work together.
 
 [⬅ Back to Home](../index.md)

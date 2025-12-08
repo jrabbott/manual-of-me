@@ -6,12 +6,12 @@ parent: Manual of Me
 
 # Strengths
 
-My strengths are **thinking differently** and **getting things done**.
+My strengths lie in **strategic thinking** and **delivery**.
 
-* **Spotting Patterns:** I can see patterns in information or behavior that other people might miss.
-* **Making it simple:** Because reading and writing takes a lot of energy for me, I am great at making things simple. I always look for the fastest, easiest way to explain something.
-* **Determination:** When I set a goal, I stick to it. I work hard to finish projects.
-* **Thinking in pictures:** I don't always think in words. I think in pictures or movies in my head. This helps me solve problems in creative ways.
-* **Bouncing back:** I have had to work hard to learn things that are easy for others. This has made me strong and willing to take risks. I am not afraid of failing.
+* **Pattern Recognition:** I can spot trends in data or user behaviour that others might miss.
+* **Simplification:** Because complex text is hard for me, I am great at making things simple and accessible. I look for the most efficient way to solve a problem.
+* **Determination:** When I set a goal, I am committed to achieving it. I drive projects through to completion.
+* **Visual Reasoning:** I often think in pictures or workflows. This helps me design creative solutions to service problems.
+* **Resilience:** I am willing to take risks to get the right result. I am not afraid of failing if we learn from it.
 
 [⬅ Back to Home](../index.md)

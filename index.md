@@ -5,21 +5,21 @@ nav_order: 1
 
 # Hi, I'm Jon
 
-I am a determined person who likes to set clear goals. I like to get things done efficiently.
+I am a delivery-focused person who likes to solve difficult problems. I care about setting clear goals and getting the job done efficiently.
 
-My brain works a little differently. I have a **"Spiky Profile."** This means I am very good at some things (like seeing the big picture), but I find other things hard (like writing and checking small details).
+My brain works a little differently. I have a **"Spiky Profile."** This means I am excellent at strategic thinking and seeing the "big picture," but I find linear tasks like writing and checking details harder.
 
-* **This is me:** I am an independent thinker who spots patterns quickly.
-* **I'm trying to change:** I am learning to be patient when I have to explain my ideas in writing.
-* **I need your help:** I need chances to talk about my ideas instead of just writing them down.
+* **This is me:** I am an independent thinker who uses evidence to make decisions.
+* **I'm trying to change:** I am learning to slow down and explain my ideas clearly, rather than rushing to the finish line.
+* **I need your help:** I need to talk through complex problems rather than writing them down.
 
 ## Too Long; Didn't Read (TLDR)
 If you only read one thing, read this:
 
-* **How I work:** I focus on results. I see the "big picture" instantly, but I find reading and writing long text difficult.
-* **How to talk to me:** Be direct and honest. I like facts and logic. If I seem intense, it is just because I care about the work.
-* **How to message me:** Keep Slack messages short. One topic per message. If you have a lot to write, put it in a document and send me a link.
-* **How I fit in:** I am independent and like to lead. I prefer working hard over "forced fun".
+* **How I work:** I focus on outcomes. I spot patterns instantly, but I find processing long text difficult.
+* **How to talk to me:** Be direct and honest. I value data and logic over opinion.
+* **How to message me:** Keep Slack messages short. One topic per message. If it is complex, put it in a document and share the link.
+* **How I fit in:** I am independent and happy to lead. I prefer doing the work over "forced fun".
 
 ## Table of Contents
 

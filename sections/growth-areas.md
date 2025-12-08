@@ -8,12 +8,12 @@ parent: Manual of Me
 
 ## "I'm trying to change"
 
-I am learning to handle my **"Spiky Profile"**—balancing my big ideas with the everyday tasks I find tricky.
+I am committed to **continuous improvement**. I am learning to manage my "Spiky Profile" better.
 
-* **Too many ideas:** Sometimes I have so many ideas I can't catch them all. I am learning better ways to record them so I don't get overwhelmed.
-* **Being stubborn:** Once I decide on a plan, I can be stuck in my ways. I am trying to be more open to changing my mind.
-* **Being impatient:** Because I see the answer immediately, I can get impatient when others need it explained step-by-step. I am trying to slow down.
-* **Trusting people:** Sometimes I can be suspicious of why people are doing things. I am trying to trust that people mean well.
-* **How I speak:** I am naturally direct and tough. I know this can sometimes sound unkind. I am trying to say things more gently.
+* **Capturing ideas:** Sometimes I have too many ideas to track. I am learning better ways to record them so I don't get overwhelmed.
+* **Flexibility:** Once I have a plan, I can be stubborn. I am trying to be more open to changing direction when the evidence changes.
+* **Patience:** Because I see the solution quickly, I can get impatient. I am learning to slow down and bring the team with me.
+* **Trusting intent:** I can sometimes be suspicious of motives. I am trying to start from a place of trust.
+* **Tone of voice:** I am naturally direct. I know this can sound blunt. I am working on delivering feedback more softly.
 
 [⬅ Back to Home](../index.md)
