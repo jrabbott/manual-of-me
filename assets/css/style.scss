@@ -28,6 +28,7 @@ $blockquote-text-color: #666666;
   padding: 2rem 2rem;
 }
 
+/* FIX: Force header text to be white */
 .project-name {
   color: $brand-white !important;
   font-weight: 700;
@@ -37,6 +38,17 @@ $blockquote-text-color: #666666;
 .project-tagline {
   color: rgba(255, 255, 255, 0.8) !important;
   font-weight: 400;
+}
+
+/* FIX: Make the Header Link look like a Title */
+.project-name a {
+  color: $brand-white !important;
+  text-decoration: none;
+}
+
+.project-name a:hover {
+  text-decoration: underline;
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 
 /* 2. Typography */
@@ -69,7 +81,7 @@ a:hover {
 
 /* 4. Main Content Area */
 .main-content {
-  max-width: 50rem;
+  max-width: 1020px; /* Increased width */
   padding: 2rem;
 
   /* Blockquotes (Mantras) - Nested here */
