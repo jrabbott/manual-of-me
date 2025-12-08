@@ -9,8 +9,8 @@ $brand-grey: #f4f4f4;    /* Light background for block sections */
 
 /* Override Cayman Theme Variables */
 $header-bg-color-0: $brand-black;
-$header-bg-color-1: $brand-black; /* Setting both to black removes the gradient */
-$header-heading-color: $brand-white;
+$header-bg-color-1: $brand-black;
+$header-heading-color: $brand-white; /* This sets the default, but we will force it below */
 $section-headings-color: $brand-black;
 $body-text-color: #333333;
 $body-link-color: $brand-accent;
@@ -21,37 +21,45 @@ $blockquote-text-color: #666666;
 
 /* Custom Overrides */
 
-/* 1. Flatten the Header */
+/* 1. Header Styling */
 .page-header {
-  background-image: none; /* Kill the texture */
+  background-image: none;
   background-color: $brand-black;
-  padding: 2rem 2rem; /* Reduce height for a cleaner look */
+  padding: 2rem 2rem;
 }
 
+/* FIX: Force header text to be white */
 .project-name {
+  color: $brand-white !important;
   font-weight: 700;
   letter-spacing: -0.5px;
 }
 
 .project-tagline {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.8) !important;
   font-weight: 400;
 }
 
-/* 2. Update Typography for readability */
+/* 2. Typography */
 body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px; /* Slightly larger for accessibility */
+  font-size: 18px;
   line-height: 1.6;
 }
 
+/* Global headings are black... */
 h1, h2, h3 {
   font-weight: 700;
   color: $brand-black;
   margin-top: 1.5em;
 }
 
-/* 3. Style the Links */
+/* ...BUT the Site Title in the body should match the header if used there */
+.main-content h1:first-child {
+  margin-top: 0;
+}
+
+/* 3. Links */
 a {
   text-decoration: underline;
   text-decoration-thickness: 2px;
@@ -62,22 +70,22 @@ a:hover {
   color: darken($brand-accent, 10%);
 }
 
-/* 4. Clean up the Main Content Area */
+/* 4. Layout */
 .main-content {
-  max-width: 50rem; /* Give text room to breathe */
+  max-width: 50rem;
   padding: 2rem;
 }
 
-/* 5. Blockquotes (Used for Mantras) */
+/* 5. Blockquotes */
 blockquote {
   border-left: 5px solid $brand-accent;
   background: $brand-grey;
   padding: 1rem;
-  font-style: normal; /* Remove italic to be more accessible */
+  font-style: normal;
   color: $brand-black;
 }
 
-/* 6. List Styling */
+/* 6. Lists */
 ul {
   margin-left: 1.5rem;
 }
