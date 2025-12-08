@@ -1,30 +1,8 @@
 title: Manual of Me
 description: A personal guide on how I work, communicate, and collaborate.
-
-# GitHub Pages supported theme
 theme: jekyll-theme-cayman
-
-# Navigation / SEO
 search_enabled: true
-
-# Optional GitHub link
+show_downloads: false
+github:
+  is_project_page: false
 url: "https://jrabbott.github.io/manual-of-me"
-
-# Top menu links
-header_links:
-  - title: Home
-    url: /index.html
-  - title: Working Style
-    url: /sections/working-style.html
-  - title: Communication
-    url: /sections/communication.html
-  - title: Collaboration
-    url: /sections/collaboration.html
-  - title: Strengths
-    url: /sections/strengths.html
-  - title: Growth Areas
-    url: /sections/growth-areas.html
-  - title: Support
-    url: /sections/support.html
-  - title: Values
-    url: /sections/values.html

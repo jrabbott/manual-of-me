@@ -4,8 +4,6 @@ nav_order: 4
 parent: Manual of Me
 ---
 
-[🏠 Manual of Me](../index.md)
-
 # Communication
 
 ## "This is me"

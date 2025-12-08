@@ -4,8 +4,6 @@ nav_order: 7
 parent: Manual of Me
 ---
 
-[🏠 Manual of Me](../index.md)
-
 # Growth Areas
 
 ## "I'm trying to change"
