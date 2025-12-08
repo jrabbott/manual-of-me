@@ -10,21 +10,17 @@ parent: Manual of Me
 I focus on the outcome. While some people work through a process step-by-step, I tend to see the whole system at once.
 
 ### The "Spiky Profile"
-I have Dyslexia. This is a different way of processing information. Imagine a chart of my skills.
-
-
-
-Instead of a flat line, my skills look like spikes:
+I have Dyslexia. This is a different way of processing information. Imagine a chart of my skills. Instead of a flat line, my skills look like spikes:
 
 * **My Superpowers (The High Spikes):**
-    * Building strategy and vision.
-    * Solving complex service problems instantly.
-    * Reading people and understanding team dynamics.
+  * Building strategy and vision.
+  * Solving complex service problems instantly.
+  * Reading people and understanding team dynamics.
 
 * **My Hard Tasks (The Low Dips):**
-    * Memorising lists of facts.
-    * Reading long documents quickly.
-    * Spelling and writing mechanics.
+  * Memorising lists of facts.
+  * Reading long documents quickly.
+  * Spelling and writing mechanics.
 
 ### What you can expect
 * **I spot the gaps:** I can see where a plan might fail before we start. I focus on managing risks to ensure we deliver.
@@ -36,4 +32,4 @@ Instead of a flat line, my skills look like spikes:
 * **I worry about quality:** I might look confident, but I worry about making mistakes. I check things carefully because I care about the standard of our work.
 
 ---
-[Next: Values →](values.md)
+[Home](../index.md) | [Next: Values →](values.md)

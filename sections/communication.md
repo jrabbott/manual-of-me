@@ -27,4 +27,4 @@ I have strong views and I advocate for them. This can sometimes make it hard to 
 * **Do:** Say, "Jon, I disagree. Here is the evidence why."
 
 ---
-[← Previous: Values](values.md) | [Next: Collaboration →](collaboration.md)
+[← Previous: Values](values.md) | [Home](../index.md) | [Next: Collaboration →](collaboration.md)

@@ -19,4 +19,4 @@ I am independent and delivery-focused. I work best when I have clear goals and a
 * **I prefer small groups:** Large meetings can be overwhelming if they lack structure. I prefer smaller, focused working groups.
 
 ---
-[← Previous: Communication](communication.md) | [Next: Strengths →](strengths.md)
+[← Previous: Communication](communication.md) | [Home](../index.md) | [Next: Strengths →](strengths.md)

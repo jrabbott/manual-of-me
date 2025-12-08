@@ -17,4 +17,4 @@ I am driven by impact, doing things properly, and seeing real-world results.
 * **Professionalism:** I respect expertise and ethical behaviour.
 
 ---
-[← Previous: Working Style](working-style.md) | [Next: Communication →](communication.md)
+[← Previous: Working Style](working-style.md) | [Home](../index.md) | [Next: Communication →](communication.md)

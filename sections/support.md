@@ -22,4 +22,4 @@ Reading long text in Slack is a barrier for me. Please use these formats:
 * **Links over long posts:** If you have a lot to share (like meeting notes), put it in an accessible document and send me the link. Please do not paste walls of text into chat.
 
 ---
-[← Previous: Growth Areas](growth-areas.md)
+[← Previous: Growth Areas](growth-areas.md) | [Home](../index.md)

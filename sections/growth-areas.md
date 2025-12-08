@@ -17,4 +17,4 @@ I am committed to continuous improvement. I am learning to manage my "Spiky Prof
 * **Tone of voice:** I am naturally direct. I know this can sound blunt. I am working on delivering feedback more softly.
 
 ---
-[← Previous: Strengths](strengths.md) | [Next: How to Support Me →](support.md)
+[← Previous: Strengths](strengths.md) | [Home](../index.md) | [Next: How to Support Me →](support.md)

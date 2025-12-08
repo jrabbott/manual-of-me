@@ -17,4 +17,4 @@ My strengths lie in strategic thinking, resilience, and delivery.
 * **Resilience:** I am willing to take risks to get the right result. I am not afraid of failing if we learn from it.
 
 ---
-[← Previous: Collaboration](collaboration.md) | [Next: Growth Areas →](growth-areas.md)
+[← Previous: Collaboration](collaboration.md) | [Home](../index.md) | [Next: Growth Areas →](growth-areas.md)
