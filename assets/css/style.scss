@@ -1,0 +1,84 @@
+/* Brand Palette */
+$brand-black: #1d1d1b;   /* Dark charcoal for headers */
+$brand-white: #ffffff;
+$brand-accent: #E40046;  /* Vibrant accent colour */
+$brand-grey: #f4f4f4;    /* Light background for block sections */
+
+/* Override Cayman Theme Variables */
+$header-bg-color-0: $brand-black;
+$header-bg-color-1: $brand-black; /* Setting both to black removes the gradient */
+$header-heading-color: $brand-white;
+$section-headings-color: $brand-black;
+$body-text-color: #333333;
+$body-link-color: $brand-accent;
+$blockquote-text-color: #666666;
+
+/* Import the Cayman theme engine */
+@import "{{ site.theme }}";
+
+/* Custom Overrides */
+
+/* 1. Flatten the Header */
+.page-header {
+  background-image: none; /* Kill the texture */
+  background-color: $brand-black;
+  padding: 2rem 2rem; /* Reduce height for a cleaner look */
+}
+
+.project-name {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.project-tagline {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 400;
+}
+
+/* 2. Update Typography for readability */
+body {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px; /* Slightly larger for accessibility */
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: $brand-black;
+  margin-top: 1.5em;
+}
+
+/* 3. Style the Links */
+a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+a:hover {
+  color: darken($brand-accent, 10%);
+}
+
+/* 4. Clean up the Main Content Area */
+.main-content {
+  max-width: 50rem; /* Give text room to breathe */
+  padding: 2rem;
+}
+
+/* 5. Blockquotes (Used for Mantras) */
+blockquote {
+  border-left: 5px solid $brand-accent;
+  background: $brand-grey;
+  padding: 1rem;
+  font-style: normal; /* Remove italic to be more accessible */
+  color: $brand-black;
+}
+
+/* 6. List Styling */
+ul {
+  margin-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
