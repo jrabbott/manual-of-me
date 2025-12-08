@@ -26,4 +26,7 @@ I have strong views and I advocate for them. This can sometimes make it hard to 
 * **Don't:** Stay silent if you think I am wrong.
 * **Do:** Say, "Jon, I disagree. Here is the evidence why."
 
-[⬅ Back to Home](../index.md)
+---
+[← Previous: Values](values.md) | [Next: Collaboration →](collaboration.md)
+
+[🏠 Back to Home](../index.md)

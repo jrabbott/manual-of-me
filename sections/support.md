@@ -21,4 +21,7 @@ Reading long text in Slack is a barrier for me. Please use these formats:
 * **Bullet points:** Use simple lists to break up information.
 * **Links over long posts:** If you have a lot to share (like meeting notes), put it in an accessible document and send me the link. Please do not paste walls of text into chat.
 
-[⬅ Back to Home](../index.md)
+---
+[← Previous: Growth Areas](growth-areas.md)
+
+[🏠 Back to Home](../index.md)

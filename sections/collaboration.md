@@ -18,4 +18,7 @@ I am independent and delivery-focused. I work best when I have clear goals and a
 * **I need clear boundaries:** I enjoy professional relationships, but I find "forced fun" draining. I prefer to bond over doing good work together.
 * **I prefer small groups:** Large meetings can be overwhelming if they lack structure. I prefer smaller, focused working groups.
 
-[⬅ Back to Home](../index.md)
+---
+[← Previous: Communication](communication.md) | [Next: Strengths →](strengths.md)
+
+[🏠 Back to Home](../index.md)

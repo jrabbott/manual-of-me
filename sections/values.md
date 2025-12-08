@@ -16,4 +16,7 @@ I am driven by impact, doing things properly, and seeing real-world results.
 * **Outcomes:** I care about real-world results, not just theory. I want to see that our work has worked.
 * **Professionalism:** I respect expertise and ethical behaviour.
 
-[⬅ Back to Home](../index.md)
+---
+[← Previous: Working Style](working-style.md) | [Next: Communication →](communication.md)
+
+[🏠 Back to Home](../index.md)

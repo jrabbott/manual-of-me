@@ -16,4 +16,7 @@ My strengths lie in strategic thinking, resilience, and delivery.
 * **Visual Reasoning:** I often think in pictures or workflows. This helps me design creative solutions to service problems.
 * **Resilience:** I am willing to take risks to get the right result. I am not afraid of failing if we learn from it.
 
-[⬅ Back to Home](../index.md)
+---
+[← Previous: Collaboration](collaboration.md) | [Next: Growth Areas →](growth-areas.md)
+
+[🏠 Back to Home](../index.md)

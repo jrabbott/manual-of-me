@@ -16,4 +16,7 @@ I am committed to continuous improvement. I am learning to manage my "Spiky Prof
 * **Trusting intent:** I can sometimes be suspicious of motives. I am trying to start from a place of trust.
 * **Tone of voice:** I am naturally direct. I know this can sound blunt. I am working on delivering feedback more softly.
 
-[⬅ Back to Home](../index.md)
+---
+[← Previous: Strengths](strengths.md) | [Next: How to Support Me →](support.md)
+
+[🏠 Back to Home](../index.md)
