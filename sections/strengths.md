@@ -4,6 +4,8 @@ nav_order: 6
 parent: Manual of Me
 ---
 
+[🏠 Manual of Me](../index.md)
+
 # Strengths
 
 ## "This is me"
@@ -18,5 +20,3 @@ My strengths lie in strategic thinking, resilience, and delivery.
 
 ---
 [← Previous: Collaboration](collaboration.md) | [Next: Growth Areas →](growth-areas.md)
-
-[🏠 Back to Home](../index.md)

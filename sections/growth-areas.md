@@ -4,6 +4,8 @@ nav_order: 7
 parent: Manual of Me
 ---
 
+[🏠 Manual of Me](../index.md)
+
 # Growth Areas
 
 ## "I'm trying to change"
@@ -18,5 +20,3 @@ I am committed to continuous improvement. I am learning to manage my "Spiky Prof
 
 ---
 [← Previous: Strengths](strengths.md) | [Next: How to Support Me →](support.md)
-
-[🏠 Back to Home](../index.md)

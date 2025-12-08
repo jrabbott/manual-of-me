@@ -4,6 +4,8 @@ nav_order: 3
 parent: Manual of Me
 ---
 
+[🏠 Manual of Me](../index.md)
+
 # Values
 
 ## "This is me"
@@ -18,5 +20,3 @@ I am driven by impact, doing things properly, and seeing real-world results.
 
 ---
 [← Previous: Working Style](working-style.md) | [Next: Communication →](communication.md)
-
-[🏠 Back to Home](../index.md)

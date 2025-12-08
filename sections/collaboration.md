@@ -4,6 +4,8 @@ nav_order: 5
 parent: Manual of Me
 ---
 
+[🏠 Manual of Me](../index.md)
+
 # Collaboration
 
 ## "This is me"
@@ -20,5 +22,3 @@ I am independent and delivery-focused. I work best when I have clear goals and a
 
 ---
 [← Previous: Communication](communication.md) | [Next: Strengths →](strengths.md)
-
-[🏠 Back to Home](../index.md)

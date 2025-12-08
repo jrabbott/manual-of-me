@@ -4,6 +4,8 @@ nav_order: 4
 parent: Manual of Me
 ---
 
+[🏠 Manual of Me](../index.md)
+
 # Communication
 
 ## "This is me"
@@ -28,5 +30,3 @@ I have strong views and I advocate for them. This can sometimes make it hard to 
 
 ---
 [← Previous: Values](values.md) | [Next: Collaboration →](collaboration.md)
-
-[🏠 Back to Home](../index.md)

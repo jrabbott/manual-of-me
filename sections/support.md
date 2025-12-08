@@ -4,6 +4,8 @@ nav_order: 8
 parent: Manual of Me
 ---
 
+[🏠 Manual of Me](../index.md)
+
 # How to support me
 
 ## "I need your help"
@@ -23,5 +25,3 @@ Reading long text in Slack is a barrier for me. Please use these formats:
 
 ---
 [← Previous: Growth Areas](growth-areas.md)
-
-[🏠 Back to Home](../index.md)
