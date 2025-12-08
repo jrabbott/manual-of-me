@@ -10,7 +10,7 @@ I am a delivery-focused person who likes to solve difficult problems. I care abo
 My brain works a little differently. I have a **"Spiky Profile."** This means I am excellent at strategic thinking and seeing the "big picture," but I find linear tasks like writing and checking details harder.
 
 > **This is me:** I am an independent thinker who uses evidence to make decisions.  
-> **I'm trying to change:** I am learning to slow down and explain my ideas clearly, rather than rushing to the finish line.  
+> **I'm trying to change:** I am learning to explain clearly rather than rushing to the finish.  
 > **I need your help:** I need to talk through complex problems rather than writing them down.
 
 ## Too Long; Didn't Read (TL;DR)
