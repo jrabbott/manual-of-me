@@ -7,8 +7,7 @@ parent: Manual of Me
 # Working Style
 
 ## "This is me"
-
-I focus on the **outcome**. While some people work through a process step-by-step, I tend to see the whole system at once.
+*I focus on the outcome. While some people work through a process step-by-step, I tend to see the whole system at once.*
 
 ### The "Spiky Profile"
 I have Dyslexia. This is a different way of processing information. Imagine a chart of my skills. Instead of a flat line, my skills look like spikes:

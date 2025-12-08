@@ -7,9 +7,9 @@ parent: Manual of Me
 # How to support me
 
 ## "I need your help"
+*To help me deliver my best work, I need clear communication and the right tools.*
 
-To help me deliver my best work, I need these things from you:
-
+### What I need from you
 * **Let me talk it out:** If I am blocked on a written task, a five-minute chat is often all I need to unblock it.
 * **Focus on the value:** Please ignore my spelling mistakes. Focus on the strategic idea I am sharing.
 * **Trust me to deliver:** I do not like being micromanaged. Agree the goal with me, then trust me to find the way.

@@ -6,8 +6,10 @@ parent: Manual of Me
 
 # Strengths
 
-My strengths lie in **strategic thinking** and **delivery**.
+## "This is me"
+*My strengths lie in strategic thinking, resilience, and delivery.*
 
+### Key Strengths
 * **Pattern Recognition:** I can spot trends in data or user behaviour that others might miss.
 * **Simplification:** Because complex text is hard for me, I am great at making things simple and accessible. I look for the most efficient way to solve a problem.
 * **Determination:** When I set a goal, I am committed to achieving it. I drive projects through to completion.
