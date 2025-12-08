@@ -1,6 +1,6 @@
 ---
 title: Values
-nav_order: 8
+nav_order: 3
 parent: Manual of Me
 ---
 

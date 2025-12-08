@@ -24,9 +24,9 @@ If you only read one thing, read this:
 ## Table of Contents
 
 - [Working Style](sections/working-style.md)
+- [Values](sections/values.md)
 - [Communication](sections/communication.md)
 - [Collaboration](sections/collaboration.md)
 - [Strengths](sections/strengths.md)
 - [Growth Areas](sections/growth-areas.md)
 - [How to Support Me](sections/support.md)
-- [Values](sections/values.md)

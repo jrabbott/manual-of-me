@@ -1,6 +1,6 @@
 ---
 title: How to Support Me
-nav_order: 7
+nav_order: 8
 parent: Manual of Me
 ---
 
