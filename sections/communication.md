@@ -7,7 +7,7 @@ parent: Manual of Me
 # Communication
 
 ## "This is me"
-*I value clarity and honesty. There is often a difference between how I speak and how I write.*
+I value clarity and honesty. There is often a difference between how I speak and how I write.
 
 ### What you can expect
 * **I articulate ideas well:** I am good at explaining complex concepts out loud. I enjoy a robust, evidence-based discussion.

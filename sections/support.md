@@ -7,7 +7,7 @@ parent: Manual of Me
 # How to support me
 
 ## "I need your help"
-*To help me deliver my best work, I need clear communication and the right tools.*
+To help me deliver my best work, I need clear communication and the right tools.
 
 ### What I need from you
 * **Let me talk it out:** If I am blocked on a written task, a five-minute chat is often all I need to unblock it.

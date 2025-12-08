@@ -7,7 +7,7 @@ parent: Manual of Me
 # Growth Areas
 
 ## "I'm trying to change"
-*I am committed to continuous improvement. I am learning to manage my "Spiky Profile" better.*
+I am committed to continuous improvement. I am learning to manage my "Spiky Profile" better.
 
 ### What I am working on
 * **Capturing ideas:** Sometimes I have too many ideas to track. I am learning better ways to record them so I don't get overwhelmed.

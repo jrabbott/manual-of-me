@@ -7,7 +7,7 @@ parent: Manual of Me
 # Collaboration
 
 ## "This is me"
-*I am independent and delivery-focused. I work best when I have clear goals and autonomy.*
+I am independent and delivery-focused. I work best when I have clear goals and autonomy.
 
 ### What you can expect
 * **I work autonomously:** I am comfortable picking up a task and running with it. I prefer independence over being managed closely.

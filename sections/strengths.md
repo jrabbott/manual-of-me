@@ -7,7 +7,7 @@ parent: Manual of Me
 # Strengths
 
 ## "This is me"
-*My strengths lie in strategic thinking, resilience, and delivery.*
+My strengths lie in strategic thinking, resilience, and delivery.
 
 ### Key Strengths
 * **Pattern Recognition:** I can spot trends in data or user behaviour that others might miss.

@@ -7,7 +7,7 @@ parent: Manual of Me
 # Values
 
 ## "This is me"
-*I am driven by impact, doing things properly, and seeing real-world results.*
+I am driven by impact, doing things properly, and seeing real-world results.
 
 ### Core Values
 * **Influence:** I want to make a real difference to the service and the team.
